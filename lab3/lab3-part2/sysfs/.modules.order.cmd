@@ -1,0 +1,1 @@
+cmd_/home/lishizhe/oslab/lab3/lab3-part2/sysfs/modules.order := {   echo /home/lishizhe/oslab/lab3/lab3-part2/sysfs/sysfs_test.ko; :; } | awk '!x[$$0]++' - > /home/lishizhe/oslab/lab3/lab3-part2/sysfs/modules.order

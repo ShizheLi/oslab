@@ -1,0 +1,1 @@
+cmd_/home/lishizhe/oslab/lab3/lab3-part2/sysfs/sysfs_test.ko := ld -r  -m elf_x86_64  --build-id=sha1  -T scripts/module.lds -o /home/lishizhe/oslab/lab3/lab3-part2/sysfs/sysfs_test.ko /home/lishizhe/oslab/lab3/lab3-part2/sysfs/sysfs_test.o /home/lishizhe/oslab/lab3/lab3-part2/sysfs/sysfs_test.mod.o;  true
